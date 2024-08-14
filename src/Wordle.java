@@ -1,7 +1,7 @@
 
 /**
 * Created by Z.L. and L.F. on 5/23/2022.
-* Remastered by Z.L. on 5/23/2024.
+* Updated by Z.L. on 5/23/2024.
 * Credits to Wordle by Josh Wardle.
 */
 
